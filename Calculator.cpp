@@ -5,7 +5,7 @@ int main(){
     char ch;
     cout<<"Enter your choice (+,-,*,/) : ";
     cin>>ch;
-    float a,b;
+    double a,b;
     switch(ch){
         case '+':
         cout<<"Enter your first Number : ";
